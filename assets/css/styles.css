@@ -1,2 +1,37 @@
 /* styles.css */
 
+.headline {
+	margin-top: 30px;
+	border-top: 2px solid #111111;
+	border-bottom: 2px solid #111111;
+}
+
+h1 {
+  font-family: "Carter One", system-ui;
+  font-size: 80px;
+  font-weight: 400;
+  font-style: normal;
+}/* styles.css */
+
+h2 {
+  font-family: "Carter One", system-ui;
+  font-size: 40px;
+  font-weight: 400;
+  font-style: normal;
+}/* styles.css */
+
+p, dt, a {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 25px;
+  font-weight: 300;
+  font-style: normal;
+}
+
+dd {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 15x;
+  font-weight: 300;
+  font-style: normal;
+}
